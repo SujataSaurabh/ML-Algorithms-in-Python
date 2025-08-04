@@ -1,9 +1,4 @@
 # ML-Algorithms-in-Python
-Here’s a sample README.md for your repository:
-
----
-
-# ML-Algorithms-in-Python
 
 This repository contains implementation code for basic machine learning algorithms in Python. The primary goal is to provide clear, beginner-friendly examples of core ML techniques using Jupyter Notebooks. Each notebook explains the intuition, workings, and practical application of different algorithms.
 
@@ -19,7 +14,7 @@ This repository contains implementation code for basic machine learning algorith
 - **Unsupervised Algorithms:** k-Means Clustering, Principal Component Analysis (PCA), etc.
 - **Additional Concepts:** Data preprocessing, model evaluation, visualization techniques.
 
-Each algorithm is presented in its own Jupyter Notebook with explanations, code, and sample outputs.
+Each algorithm is presented in its own Jupyter Notebook with explanations, code, and sample outputs. The data used to implement the algorithms is placed in the data folder.
 
 ## How to Run
 
