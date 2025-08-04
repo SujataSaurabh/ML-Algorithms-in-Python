@@ -1,4 +1,4 @@
-# ML-Algorithms-in-Python
+# Implememtation of machine learning algorithms using Python libraries
 
 This repository contains implementation code for basic machine learning algorithms in Python. The primary goal is to provide clear, beginner-friendly examples of core ML techniques using Jupyter Notebooks. Each notebook explains the intuition, workings, and practical application of different algorithms.
 
