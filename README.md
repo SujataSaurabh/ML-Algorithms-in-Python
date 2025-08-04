@@ -52,7 +52,3 @@ Contributions are welcome! If you’d like to add new algorithms, improve explan
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Feel free to update or customize the README as needed for your specific notebooks and content.
